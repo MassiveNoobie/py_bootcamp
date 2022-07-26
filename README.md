@@ -9,7 +9,7 @@ In a bootcamp style, it's a nonstop flow of new information that works together 
 
 Feel free to help me with documentation to improve the python bootcamp training funnel for other non-technical python engineers.
 
-I created https://canopys.io to help others execute python and I hope this code here is a way for others to kick start their canopys automation adventures.
+I created https://canopys.io to help others execute python, it's crossplatform (works on mac and windows), free and I hope this code here is a way for others to kick start their canopys automation adventures.
 
 Interested in following along on your computer? Learning python beginnger pieces is difficult without typing all of the code yourself, however you can use this as a place to quickly ctrl+f find information as you're grinding through another bootcamp too.
 
