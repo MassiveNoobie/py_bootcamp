@@ -1,5 +1,5 @@
-# py_bootcamp
-Jupyter Notebook Python Notes focused on basic training ramping up towards AI/ML in future.
+# py_bootcamp - python bootcamp for beginners - using jupyter notebook
+A beginners python bootcamp in Jupyter Notebook Python Notes focused on basic training ramping up towards AI/ML in future. 
 
 
 Jupyter Notebook; documented python basics
